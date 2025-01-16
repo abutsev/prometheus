@@ -4,7 +4,7 @@
 # Developed by Denis Astahov in 2024
 #--------------------------------------------------------------------
 # https://github.com/prometheus-community/windows_exporter/releases
-$WINDOWS_EXPORTER_VERSION="0.25.1"
+$WINDOWS_EXPORTER_VERSION="0.30.0"
 $URL="https://github.com/prometheus-community/windows_exporter/releases/download/v$WINDOWS_EXPORTER_VERSION/windows_exporter-$WINDOWS_EXPORTER_VERSION-amd64.msi"
 
 
